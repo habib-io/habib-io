@@ -6,7 +6,7 @@ Hi, I'm **Md Habibur Rahman** 👋
 - 🔨 Currently working with HTML, CSS, JavaScript, Next.js and Tailwind CSS
 - 🌱 Building scalable systems & web solutions
 - ❤️ Passionate about clean code and open-source
-- 📍 Based in Dhaka, Bangladesh
+- 📍 Currently living in Dhaka, Bangladesh
 
 ## 🌐 Socials:
 
